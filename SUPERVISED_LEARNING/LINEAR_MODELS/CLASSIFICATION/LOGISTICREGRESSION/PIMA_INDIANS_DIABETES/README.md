@@ -48,4 +48,4 @@ Scaled numerical features
  
 
 # Result:
-The performance of themodel was evaluated using various metrics, including accuracy, precision, recall, F1-score, and ROC-AUC.
+The performance of the model was evaluated using various metrics, including accuracy, precision, recall, F1-score, and ROC-AUC.
