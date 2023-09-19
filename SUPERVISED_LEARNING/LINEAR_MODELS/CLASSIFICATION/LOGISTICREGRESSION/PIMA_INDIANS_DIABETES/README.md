@@ -41,9 +41,9 @@ Outcome: Class variable (0 or 1)
 9
 
 # EDA and preprocessing
-Basic data exploration.
-Data visualization and analysis to gain insights into the dataset.
-Handled missing values and outliers.
+Basic data exploration.\
+Data visualization and analysis to gain insights into the dataset.\
+Handled missing values and outliers.\
 Scaled numerical features
  
 
