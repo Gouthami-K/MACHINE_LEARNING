@@ -12,7 +12,7 @@ We will try to build a machine learning model(logistic regression) to accurately
 
 # Details about the dataset:
 ## Dataset
-- We used the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?select=diabetes.csv) for this project.
+[Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?select=diabetes.csv) was used.
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 Pregnancies: Number of times pregnant
