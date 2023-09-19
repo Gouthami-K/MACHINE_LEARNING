@@ -11,7 +11,7 @@ Indian heritage.
 We will try to build a machine learning model(logistic regression) to accurately predict whether the patients in the dataset have diabetes or not.
 
 # Dataset
-[Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?select=diabetes.csv) was used.
+[Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?select=diabetes.csv)
 
 # Details about the dataset:
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
